@@ -13,8 +13,7 @@ $
 ```
 
 ```
-15 should print ``FizzBuzz`` not ``Fizz ``
-
+15 should print `FizzBuzz` not `Fizz `
 ```
 
 ### 1. Print square
@@ -47,8 +46,7 @@ $ ./1-print_square.js 10
 $
 ```
 ```
-``./1-print_square.js 10`` should print a square of size 10…
-
+`./1-print_square.js 10` should print a square of size 10…
 ```
 ### 2. Sort
 The implementation of sorting arguments in Ruby: [Source Code](https://alx-intranet.hbtn.io/rltoken/Rn9VSH6Vo4vGiqNzqBJ6mg)
