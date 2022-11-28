@@ -12,9 +12,7 @@ $ ./0-fizzbuzz.py 50
 $
 ```
 
-```
-15 should print `FizzBuzz` not `Fizz `
-```
+`15 should print FizzBuzz not "Fizz"`
 
 ### 1. Print square
 Take a look at the implementation of printing a square in Javascript: [Source code](https://alx-intranet.hbtn.io/rltoken/aRr-rGLsvmrlvezQoxEtCg)
@@ -45,9 +43,8 @@ $ ./1-print_square.js 10
 ################
 $
 ```
-```
-`./1-print_square.js 10` should print a square of size 10…
-```
+
+`"./1-print_square.js 10" should print a square of size 10…`
 ### 2. Sort
 The implementation of sorting arguments in Ruby: [Source Code](https://alx-intranet.hbtn.io/rltoken/Rn9VSH6Vo4vGiqNzqBJ6mg)
 
